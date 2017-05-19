@@ -1,0 +1,4 @@
+".source.js":
+    "Append something":
+        prefix: "app"
+        body: ".append('${1:}')"

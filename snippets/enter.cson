@@ -1,0 +1,4 @@
+".source.js":
+    "Enter the data":
+        prefix: "ent"
+        body: ".enter()"

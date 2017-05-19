@@ -1,0 +1,21 @@
+{
+    "name": "puddletown-d3-snippets",
+    "main": "./lib/puddletown-d3-snippets",
+    "version": "1.0.0",
+    "description": "A collection of D3.v4 snippets from Puddletown Design. Accelerate your graphics!",
+    "keywords": [
+        "d3",
+        "snippets",
+        "javascript",
+        "data visualization"
+    ],
+    "activationCommands": {
+        "atom-workspace": "d3-snippets:toggle"
+    },
+    "repository": "https://github.com/PuddletownDesign/puddletown-d3-snippets",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    },
+    "dependencies": {}
+}

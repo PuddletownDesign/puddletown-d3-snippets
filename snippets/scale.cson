@@ -1,0 +1,8 @@
+".source.js":
+    "Create a sample scale":
+        prefix: "scale"
+        body: """
+        d3.${1:scaleLinear}()
+            .domain([${2:}, ${3:}])
+            .range([${4:}, ${5:}]);
+        """

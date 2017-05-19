@@ -1,0 +1,4 @@
+".source.js":
+    "Blank anonymous function":
+        prefix: "fn"
+        body: "function() { return ${1:};}"

@@ -1,0 +1,4 @@
+".source.js":
+    "Set the transition duration":
+        prefix: "dur"
+        body: ".duration(${1:})"

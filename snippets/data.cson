@@ -1,0 +1,4 @@
+".source.js":
+    "Return the data":
+        prefix: "fd"
+        body: "function(d) { return ${1:};}"
